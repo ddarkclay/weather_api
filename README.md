@@ -1,4 +1,5 @@
 # Weather_API
-Using this api we get information about weather of any City   
-This Script Written in Python  
-Enter Just City Name Program will give Weather Information about the City
+An application program interface (API) is a code that allows two software programs to communicate with each other.  
+Using this Weather API app we can get information about the weather of any City.  
+Enter the City & get Weather Information.  
+Developed by Vaibhav Chaudhari Written in Python
